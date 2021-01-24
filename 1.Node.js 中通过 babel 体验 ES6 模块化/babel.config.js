@@ -11,5 +11,7 @@ const presets = [
     }
   ]
 ]
-
-module.exports = { presets }
+//暴露
+module.exports = {
+  presets
+}
