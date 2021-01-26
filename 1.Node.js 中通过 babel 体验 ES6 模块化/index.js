@@ -1,4 +1,4 @@
-// console.log('ok!')
+console.log('ok!')
 // import m1 from './m1.js'
 // console.log(m1);
 
